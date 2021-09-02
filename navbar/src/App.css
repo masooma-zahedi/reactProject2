@@ -1,0 +1,15 @@
+@media screen and (min-width:1200px) {
+    .linkul{
+        border:1px solid blue;
+        position: relative;
+        top:-50px ;
+        left: 50%;
+        transform: translateX(-50%);
+        text-align: center;
+    }
+    .linkLi{
+        display: inline-block;
+        padding: 10px;
+    }
+    
+}

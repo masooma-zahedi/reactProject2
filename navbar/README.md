@@ -1,0 +1,3 @@
+used: 
+    Bootstrap
+    react-icon
