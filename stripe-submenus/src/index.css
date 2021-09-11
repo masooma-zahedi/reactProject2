@@ -176,6 +176,7 @@ Stripe Styles
 .signin-btn {
   display: none;
 }
+/* **************** hero ***********8** */
 .hero::before {
   content: '';
   position: absolute;
